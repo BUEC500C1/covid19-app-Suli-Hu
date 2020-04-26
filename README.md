@@ -1,6 +1,6 @@
 # Ccovid-19 Map Application
 
-As HomeWork7 of EC500, this project takes around one month and have been done with all 5 Steps. Users can run this app on any iOS device over iOS 13.0 after server started. To test the program you may clone the whole project and get in to example, then run `$npm i` and `$npm start`.  When you see the  server started, for Android device please run `$npm npm run run:android` and `$nmp run build:ios` + `$npm run run:ios` for iOS device. Please make sure your simulator is properly installed. If you choose to run on your simulator, it will automatically started and open the app. The following documentation uses iOS device simulator for instance. Feel free to try and make feedbacks :)
+The project takes around one month and have been done with all 5 Steps. Users can run this app on any iOS device over iOS 13.0 after server started. To test the program you may clone the whole project and get in to example, then run `$npm i` and `$npm start`.  When you see the  server started, for Android device please run `$npm npm run run:android` and `$nmp run build:ios` + `$npm run run:ios` for iOS device. Please make sure your simulator is properly installed. If you choose to run on your simulator, it will automatically started and open the app. The following documentation uses iOS device simulator for instance. Feel free to try and make feedbacks :)
 <p align="center">
   <img width="300" height="600" src="/pic1.PNG">
   <img width="300" height="600" src="/pic2.PNG">
