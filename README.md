@@ -5,7 +5,9 @@ After server started, users can run this app on any iOS device. If you would lik
   <img width="300" height="600" src="/pic1.PNG">
   <img width="300" height="600" src="/pic2.PNG">
 </p>
-
+<p align="center">
+  <img width="300" height="600" src="https://github.com/BUEC500C1/covid19-app-Suli-Hu/blob/master/gif1.gif">
+</p>
 ## Experence with React-Native-Map
 Thanks to this open source [react-native-map](https://github.com/react-native-community/react-native-maps) , Covid-19 Map was build based on `examples` project. I cloned the source code and tried to locally test `example` program, but some pod files need to be modified.
 
