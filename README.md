@@ -1,6 +1,8 @@
 # Ccovid-19 Map Application
 
 As HomeWork7 of EC500, this project takes around one month and have been done with all 5 Steps. Users can run this app on any iOS device over iOS 13.0 after server started. To test the program you may clone the whole project and get in to example, then run `$npm i` and `$npm start`.  When you see the  server started, for Android device please run `$npm npm run run:android` and `$nmp run build:ios` + `$npm run run:ios` for iOS device. Please make sure your simulator is properly installed. If you choose to run on your simulator, it will automatically started and open the app. The following documentation uses iOS device simulator for instance. Feel free to try and make feedbacks :)
+![pic1](pic1.png)
+![pic2](pic2.png)
 ## Step 3
 Because first 2 steps are fundamental tutorials for React-Native examples, we would rather not mention them again. You may visit [here](https://reactnative.dev/docs/environment-setup) for details.
 
@@ -10,11 +12,11 @@ In step 3, with credit to this open source [react-native-map](https://github.com
 2. For first time or to make sure there are no more outdated files,  run `$pod install` inside `ios` directory. Dependencies will be automatically installed. Then run those npm instructions on the top,  the example will be opened in simulator.
 3. A valid Google Map Api key is required to use google map.
 
-There are several use cases inside example app. The feature `Custom Callout` can put markers for given geocoordinators on the map, with short text description bubbles. This is the base of Covid-19 Map. (Picture 1)
-![step3](step3.jpg)
+There are several use cases inside example app. The feature `Custom Callout` can put markers for given geocoordinators on the map, with short text description bubbles. This is the base of Covid-19 Map.
+
 
 ## Step 4
-After Reactive-Native-Map is settled, I exercised the [Covid-19 Api](https://covid19api.com) in step 4. The [summary](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8) api can fetch daily-updated data for every country and region with name or country code. However, there is no geocoordinate information aligned to the country. So I got to google api website and downloaded a Country Geocoordinates CSV file and transferred to Json format. Then fetch covid-19 api once and store data in variable `this.state.data`, which can be succesfully printed on console warning. (Picture 2)
+After Reactive-Native-Map is settled, I exercised the [Covid-19 Api](https://covid19api.com) in step 4. The [summary](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8) api can fetch daily-updated data for every country and region with name or country code. However, there is no geocoordinate information aligned to the country. So I got to google api website and downloaded a Country Geocoordinates CSV file and transferred to Json format. Then fetch covid-19 api once and store data in variable `this.state.data`, which can be succesfully printed on console warning.
 ![step4](step4.jpg)
 
 
