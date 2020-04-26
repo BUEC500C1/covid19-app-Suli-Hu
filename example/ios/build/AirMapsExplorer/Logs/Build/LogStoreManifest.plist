@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>DB509D10-4A6F-4685-BDFE-03816AFBF61A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB509D10-4A6F-4685-BDFE-03816AFBF61A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AirMapsExplorer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AirMapsExplorer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace AirMapsExplorer with scheme AirMapsExplorer and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>609369560.80108297</real>
+			<key>timeStoppedRecording</key>
+			<real>609369562.46752405</real>
+			<key>title</key>
+			<string>Building workspace AirMapsExplorer with scheme AirMapsExplorer and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DB509D10-4A6F-4685-BDFE-03816AFBF61A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
